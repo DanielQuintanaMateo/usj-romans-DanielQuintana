@@ -20,7 +20,7 @@ concurrency:
   group: "pages"
   cancel-in-progress: true
 
-conversions:
+jobs:
 
   test:
     runs-on: ubuntu-latest
